@@ -1,6 +1,10 @@
 # NvChad Configuration
 
-📝 My neovim configuration 🛠 Includes TypeScript autocomplete, hints, prettier, and more.
+📝 My `neovim` configuration 
+
+🛠 Includes TypeScript autocomplete, hints, prettier, and more
+
+❤️ Based on [`nvChad`](https://nvchad.com)
 
 ![nvim](https://user-images.githubusercontent.com/2508576/230222564-9d18160a-9545-4e21-a0fb-ed89c4ba8105.gif)
 
